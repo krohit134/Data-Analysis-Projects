@@ -20,6 +20,11 @@ The data is sourced from a Kaggle dataset that includes:
 - **Top Brands by Rating**: Bar chart displaying the top brands based on customer ratings.
 - **Discount Distribution**: Histogram showing discount ranges applied across products.
 - ![Average rating by brands](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Average%20rating%20by%20brands.png)
+- ![Distribution of rating](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Distribution%20of%20rating.png)
+- ![Distribution of reviews](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Distribution%20of%20reviews.png)
+- ![Price vs Discount percentage](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Price%20vs%20Discount%20percentage.png)
+- ![Ram size distribution](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Ram%20size%20distribution.png)
+- ![Top 10 brands by number of products](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Top%2010%20brands%20by%20number%20of%20%20products.png)
 
 
 ## Tools Used
