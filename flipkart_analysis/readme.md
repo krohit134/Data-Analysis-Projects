@@ -19,7 +19,7 @@ The data is sourced from a Kaggle dataset that includes:
 - **Sales by Product Category**: Shows the distribution of products across categories.
 - **Top Brands by Rating**: Bar chart displaying the top brands based on customer ratings.
 - **Discount Distribution**: Histogram showing discount ranges applied across products.
-  !<img src="(https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Average%20rating%20by%20brands.png)" alt="Average rating by brands" width="400" height="300"/>
+- ![Average rating by brands](https://github.com/krohit134/Data-Analysis-Projects/blob/main/flipkart_analysis/Average%20rating%20by%20brands.png)
 
 
 ## Tools Used
